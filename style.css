@@ -1,0 +1,18 @@
+    body {
+background-image: url("http://s.ndtvimg.com/images/content/2016/aug/806/neymar-rio-2016-celebrates-2108.jpg?downsize=764:573&output-quality=80&output-format=jpg");
+    background-size:cover;
+    font-weight:bold;
+    color:black;
+        }
+p { 
+    color:black;
+}
+
+div h1 { 
+    color:chartreuse;
+}
+
+p img {
+    box-sizing: border-box;40px
+    height: 40px
+}
