@@ -6,13 +6,39 @@ background-image: url("http://s.ndtvimg.com/images/content/2016/aug/806/neymar-r
         }
 p { 
     color:black;
+    font-size: 100px
+    font-family; "Arial", Times, Serif;
 }
 
 div h1 { 
     color:chartreuse;
+    text-align: center;
+    font-size: 50px;
 }
 
-p img {
-    box-sizing: border-box;40px
-    height: 40px
+html {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow: hidden;
+}
+
+body {
+    margin: 0;
+    padding: 0;
+    height: 100%;
+    width: 100%;
+    overflow: scroll;
+    overflow-x: hidden;
+
+}
+
+.banner {
+    margin: 0px auto;
+    padding: 0;
+    height: 20%;
+    width: 100%;
+    overflow: hidden;
+    border: solid;
 }
